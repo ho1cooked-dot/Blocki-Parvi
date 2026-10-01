@@ -1,0 +1,6 @@
+name: "Blocci Parvi"
+category: "DISPLAY"
+designer: "ho1cooked-dot"
+license: "OFL"
+source: "https://github.com/ho1cooked-dot/blocci-parvi"
+subsets: "menu"
